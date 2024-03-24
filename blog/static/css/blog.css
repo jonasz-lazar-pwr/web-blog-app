@@ -1,0 +1,129 @@
+.bigbrand {
+  font-size: 1.5em;
+}
+
+.postdate {
+  text-align: center;
+}
+
+.blog-posts {
+    margin-top: 20px;
+}
+
+.blog-post {
+    background-color: #f8f9fa;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.blog-post h2 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    color: #343a40;
+}
+
+.blog-post p {
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    color: #6c757d;
+}
+
+.navbar-brand {
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.navbar-nav .nav-link {
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.navbar-text {
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+}
+
+.navbar-text.welcome-text {
+    color: #6c757d;
+    font-size: 14px;
+    font-weight: 600;
+    margin-right: 10px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+/* Dodatkowy CSS dla listy postów */
+.card {
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    border-radius: 0.25rem;
+}
+
+.card-title a {
+    color: #333;
+    text-decoration: none;
+}
+
+.card-title a:hover {
+    color: #007bff;
+}
+
+.card-text {
+    color: #6c757d;
+}
+
+.card-body {
+    padding: 1.25rem;
+}
+
+/* Dodatkowe style dla formularza posta */
+.card {
+    border-radius: 10px;
+}
+
+.card-title {
+    color: #333;
+}
+
+.post-form input[type="text"],
+.post-form textarea {
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    padding: 8px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.post-form button {
+    width: 100%;
+}
+
+.post-form button:hover {
+    background-color: #0069d9;
+    border-color: #0062cc;
+}
+
+/* Poprawienie marginesu dla przycisku */
+.mt-3 {
+    margin-top: 1rem !important;
+}
+
+.card {
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+    font-size: 24px;
+    text-align: center;
+}
+
+.card-text {
+    font-size: 16px;
+}
+
+.btn {
+    font-size: 18px;
+}
